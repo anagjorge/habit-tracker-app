@@ -1,4 +1,4 @@
-#  Habit tracker app
+#  OneBitLife - Habit tracker app
 
 ## Aplicativo desenvolvido durante a Semana Mobile do OneBitCode
 
